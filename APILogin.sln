@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIChat", "APIChat\APIChat.csproj", "{59FAC388-4246-417D-9066-6E4498C0097E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APILogin", "APIChat\APILogin.csproj", "{ABD994AA-5B9E-4804-A12A-4B52E1A4A85B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59FAC388-4246-417D-9066-6E4498C0097E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59FAC388-4246-417D-9066-6E4498C0097E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59FAC388-4246-417D-9066-6E4498C0097E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59FAC388-4246-417D-9066-6E4498C0097E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD994AA-5B9E-4804-A12A-4B52E1A4A85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD994AA-5B9E-4804-A12A-4B52E1A4A85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD994AA-5B9E-4804-A12A-4B52E1A4A85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD994AA-5B9E-4804-A12A-4B52E1A4A85B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {744E11BE-40AA-4C5C-8339-25313A27E597}
+		SolutionGuid = {A170D561-527A-476C-9810-1CB1175008E3}
 	EndGlobalSection
 EndGlobal
